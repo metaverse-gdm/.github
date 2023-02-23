@@ -1,5 +1,5 @@
 ## Game Development Meetup in Metaverse
-ゲーム開発集会へようこそ！
+ゲーム開発者集会へようこそ！
 
 近日中にVRChatでイベントを開催予定です
 Upcoming event on VRChat in the future!
