@@ -3,7 +3,7 @@
 
 毎週水曜日 21:00～22:00
 
-場所: https://vrch.at/s28dewb2 (VRChat)
+VRChat: https://vrch.at/s28dewb2
 
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
