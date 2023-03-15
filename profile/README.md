@@ -7,4 +7,4 @@ VRChat: https://vrch.at/s28dewb2
 
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
-Site:https://metaverse-gdm.github.io/website/
+Web Site: https://metaverse-gdm.github.io/website/
