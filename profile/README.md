@@ -1,4 +1,4 @@
-## GDM (Game Development Meetup in Metaverse)
+## ゲーム開発集会 GDM (Game Development Meetup in Metaverse)
 ゲーム開発集会へようこそ！
 
 毎週水曜日 21:00～22:00 (日本時間)
@@ -19,3 +19,4 @@ Web Site: https://metaverse-gdm.github.io/website/
 
 ゲーム開発に関する交流の場として自由に利用いただければ幸いです。
 
+![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
