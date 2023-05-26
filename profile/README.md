@@ -19,4 +19,8 @@ Web Site: https://metaverse-gdm.github.io/website/
 
 ゲーム開発に関する交流の場として自由に利用いただければ幸いです。
 
+![image](https://github.com/metaverse-gdm/.github/assets/38463346/88b44821-b8ed-4d17-b85e-be7b4600b607)
+
 ![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
+
+
