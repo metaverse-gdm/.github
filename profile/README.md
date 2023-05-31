@@ -3,7 +3,7 @@
 
 毎週水曜日 21:00～22:00 (日本時間)
 
-VRChat: https://vrch.at/s28dewb2
+VRChat: https://vrch.at/475pybbc
 
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
