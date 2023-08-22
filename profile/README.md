@@ -1,4 +1,6 @@
 ## ゲーム開発集会 GDM (Game Development Meetup in Metaverse)
+[中文](zh-CN.md)
+
 ゲーム開発集会へようこそ！
 
 毎週水曜日 21:30～22:00 (日本時間)
