@@ -1,5 +1,5 @@
 ## ゲーム開発集会 GDM (Game Development Meetup in Metaverse)
-[中文](zh-CN.md)
+[中文](/profile/zh-CN.md)
 
 ゲーム開発集会へようこそ！
 
