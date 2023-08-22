@@ -1,7 +1,7 @@
 ## ゲーム開発集会 GDM (Game Development Meetup in Metaverse)
 ゲーム開発集会へようこそ！
 
-毎週水曜日 21:00～22:00 (日本時間)
+毎週水曜日 21:30～22:00 (日本時間)
 
 VRChat: https://vrch.at/8z3kc7m7
 
