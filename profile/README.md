@@ -33,7 +33,9 @@ Web Site: https://metaverse-gdm.github.io/
 
 もちろん、これらの役割に限らず、運営に関して自分ができることを提案していただける方も大歓迎です。
 
-![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0)
+![image](https://github.com/metaverse-gdm/.github/assets/38463346/71c16f4e-d042-41b6-a3f7-54a450af49ce)
+
+<!-- ![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0) -->
 
 ![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
 
