@@ -1,7 +1,7 @@
-## ゲーム開発集会 GDM (Game Development Meetup in Metaverse)
+## ゲーム開發集會 GDM (Game Development Meetup in Metaverse)
 [中文](/profile/zh-CN.md)
 
-ゲーム開発集会へようこそ！
+ゲーム開發集會へようこそ！
 
 毎週水曜日 21:30～22:00 (日本時間)
 
@@ -22,7 +22,7 @@ Web Site: https://metaverse-gdm.github.io/
 ゲーム開発に関する交流の場として自由に利用いただければ幸いです。
 
 ## 運営スタッフ募集中！
-ゲーム開発集会の運営スタッフを募集しています。
+ゲーム開發集會の運営スタッフを募集しています。
 
 もし、興味がありましたら、fog8360 (VRChat) までご連絡ください。
 
