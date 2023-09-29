@@ -1,7 +1,7 @@
 ## 游戏开发交流会
 欢迎来到游戏开发交流会！
 
-每周三，20:30～21:00
+每周三，20:50～21:20
 
 VRChat：https://vrch.at/8z3kc7m7
 
@@ -28,7 +28,6 @@ Discord 邀请链接：https://discord.gg/Mes3nP3mZt
 - 对于网站运营、更新和活动公告制作有兴趣的人
 - 愿意分享游戏开发技能和知识，积极与其他参与者交流的人
 当然，不仅限于这些角色，欢迎提出您可以为运营做出的贡献的人。
-
-![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0)
+![image](https://github.com/metaverse-gdm/.github/assets/38463346/a4b672da-1c66-4768-82e9-1468a9be8453)
 ![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
 
