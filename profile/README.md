@@ -33,7 +33,8 @@ Web Site: https://metaverse-gdm.github.io/
 
 もちろん、これらの役割に限らず、運営に関して自分ができることを提案していただける方も大歓迎です。
 
-![image](https://github.com/metaverse-gdm/.github/assets/38463346/a4b672da-1c66-4768-82e9-1468a9be8453)
+![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/ed18511a-125f-48ac-8802-4d2256485428)
+
 
 <!-- ![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0) -->
 
