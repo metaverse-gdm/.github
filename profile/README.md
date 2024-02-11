@@ -21,6 +21,12 @@ Web Site: https://metaverse-gdm.github.io/
 
 ゲーム開発に関する交流の場として自由に利用いただければ幸いです。
 
+## 参加方法
+https://vrch.at/8z3kc7m7
+
+![image](https://github.com/metaverse-gdm/.github/assets/38463346/ea82477e-7ac4-4d16-9404-d3fa0f5693b1)
+
+
 ## 運営スタッフ募集中！
 ゲーム開發集會の運営スタッフを募集しています。
 
