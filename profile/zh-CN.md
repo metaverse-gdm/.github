@@ -28,6 +28,7 @@ Discord 邀请链接：https://discord.gg/Mes3nP3mZt
 - 对于网站运营、更新和活动公告制作有兴趣的人
 - 愿意分享游戏开发技能和知识，积极与其他参与者交流的人
 当然，不仅限于这些角色，欢迎提出您可以为运营做出的贡献的人。
+
 ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/51f8e9cd-a405-4246-bbb2-d0ce97d55149)
 ![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
 
