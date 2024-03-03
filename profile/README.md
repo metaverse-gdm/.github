@@ -22,6 +22,7 @@ Web Site: https://metaverse-gdm.github.io/
 ゲーム開発に関する交流の場として自由に利用いただければ幸いです。
 
 ## 参加方法
+
 https://vrch.at/8z3kc7m7
 
 ![image](https://github.com/metaverse-gdm/.github/assets/38463346/ea82477e-7ac4-4d16-9404-d3fa0f5693b1)
@@ -39,7 +40,9 @@ https://vrch.at/8z3kc7m7
 
 もちろん、これらの役割に限らず、運営に関して自分ができることを提案していただける方も大歓迎です。
 
-![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/ed18511a-125f-48ac-8802-4d2256485428)
+![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/51f8e9cd-a405-4246-bbb2-d0ce97d55149)
+
+<!-- ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/ed18511a-125f-48ac-8802-4d2256485428) -->
 
 
 <!-- ![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0) -->
