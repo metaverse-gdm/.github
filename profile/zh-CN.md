@@ -7,7 +7,7 @@ VRChat：https://vrch.at/8z3kc7m7
 
 Discord 邀请链接：https://discord.gg/Mes3nP3mZt
 
-网站：https://metaverse-gdm.github.io/
+网站：[https://metaverse-gdm.github.io/](https://meetup.vrchat.llc)
 
 ## 关于活动
 对游戏开发有兴趣的任何人都可以参加。
