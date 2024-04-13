@@ -9,7 +9,7 @@ VRChat: https://vrch.at/8z3kc7m7
 
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
-Web Site: https://metaverse-gdm.github.io/
+Web Site: https://metaverse-gdm.github.io/ja/
 
 ## イベントについて
 
