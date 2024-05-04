@@ -7,6 +7,8 @@ VRChat：https://vrch.at/8z3kc7m7
 
 Discord 邀请链接：https://discord.gg/Mes3nP3mZt
 
+QQ群：917160087
+
 网站：https://metaverse-gdm.github.io/zh-CN/
 
 ## 关于活动
