@@ -3,7 +3,7 @@
 
 隔周星期日，20:00～21:00
 
-VRChat：https://vrch.at/8z3kc7m7
+VRChat: https://vrch.at/szuprkx4
 
 Discord 邀请链接：https://discord.gg/Mes3nP3mZt
 
