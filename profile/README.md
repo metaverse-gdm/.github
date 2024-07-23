@@ -23,7 +23,7 @@ Web Site: https://metaverse-gdm.github.io/ja/
 
 ## 参加方法
 
-https://vrch.at/8z3kc7m7
+https://vrch.at/szuprkx4
 
 ![image](https://github.com/metaverse-gdm/.github/assets/38463346/ea82477e-7ac4-4d16-9404-d3fa0f5693b1)
 
