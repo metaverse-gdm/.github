@@ -7,6 +7,8 @@
 
 VRChat: https://vrch.at/szuprkx4
 
+VRChat Group: https://vrchat.com/home/group/grp_0fba4234-e046-46c5-b8a9-15044ebc7b34
+
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
 Web Site: https://metaverse-gdm.github.io/ja/
@@ -40,7 +42,8 @@ https://vrch.at/szuprkx4
 
 もちろん、これらの役割に限らず、運営に関して自分ができることを提案していただける方も大歓迎です。
 
-![gdm-poster5](https://github.com/user-attachments/assets/0e7d0cf8-829b-4bdb-bc0f-6f1763f5f734)
+![gdm-poster5](https://github.com/user-attachments/assets/65d97a0e-ab76-4ca0-ac5d-db4624723a70)
+
 
 <!-- ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/51f8e9cd-a405-4246-bbb2-d0ce97d55149) -->
 
