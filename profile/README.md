@@ -40,7 +40,9 @@ https://vrch.at/szuprkx4
 
 もちろん、これらの役割に限らず、運営に関して自分ができることを提案していただける方も大歓迎です。
 
-![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/51f8e9cd-a405-4246-bbb2-d0ce97d55149)
+![gdm-poster5](https://github.com/user-attachments/assets/0e7d0cf8-829b-4bdb-bc0f-6f1763f5f734)
+
+<!-- ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/51f8e9cd-a405-4246-bbb2-d0ce97d55149) -->
 
 <!-- ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/ed18511a-125f-48ac-8802-4d2256485428) -->
 
