@@ -43,9 +43,12 @@ https://vrch.at/szuprkx4
 
 <!-- ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/ed18511a-125f-48ac-8802-4d2256485428) -->
 
+![VRChat_2024-10-13_22-09-18 716_1920x1080](https://github.com/user-attachments/assets/56a7376d-e72f-4f7f-846d-507489fd53ed)
 
 <!-- ![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0) -->
 
-![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
+<!--![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)　-->
+
+
 
 
