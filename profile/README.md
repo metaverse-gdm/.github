@@ -36,19 +36,6 @@ https://vrch.at/szuprkx4
 
 ![image](https://github.com/metaverse-gdm/.github/assets/38463346/ea82477e-7ac4-4d16-9404-d3fa0f5693b1)
 
-
-## 運営スタッフ募集中！
-ゲーム開發集會の運営スタッフを募集しています。
-
-もし、興味がありましたら、fog8360 (VRChat) までご連絡ください。
-
-- イベント説明、進行等に携わっていただける方
-- DiscordでのCommunity管理や案内などに関心がある方
-- Websiteの運営や更新、イベント告知の作成に興味がある方
-- ゲーム開発におけるスキルや知識を共有したり、他の参加者と積極的に交流する意欲のある方
-
-もちろん、これらの役割に限らず、運営に関して自分ができることを提案していただける方も大歓迎です。
-
 ![gdm-poster5](https://github.com/user-attachments/assets/65d97a0e-ab76-4ca0-ac5d-db4624723a70)
 
 
