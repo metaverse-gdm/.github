@@ -1,36 +1,35 @@
-## 游戏开发交流会
-欢迎来到游戏开发交流会！
+# 游戏开发集会 GDM (Game Development Meetup in Metaverse)
+![VRChat_2024-10-13_22-09-18 716_1920x1080](https://github.com/user-attachments/assets/56a7376d-e72f-4f7f-846d-507489fd53ed)
 
-隔周星期日，20:00～21:00
+欢迎来到游戏开发集会！
+
+每隔一周的星期天 21:00～22:00（日本时间）
 
 VRChat: https://vrch.at/szuprkx4
 
-Discord 邀请链接：https://discord.gg/Mes3nP3mZt
+VRChat 群组: https://vrchat.com/home/group/grp_0fba4234-e046-46c5-b8a9-15044ebc7b34
 
-QQ群：917160087
+Discord 邀请链接: https://discord.gg/Mes3nP3mZt
 
-网站：https://metaverse-gdm.github.io/zh-CN/
+官网: https://metaverse-gdm.github.io/zh/
 
 ## 关于活动
-对游戏开发有兴趣的任何人都可以参加。
 
-当然，国籍不限。我们希望能够吸引来自世界各地的人参与。
+游戏开发集会是由所有参与者共同打造的“场所”。
 
-至于内容，我们没有特别的设定，
+主题是“**编织快乐的雾幻庭园**”
 
-我们希望您可以自由地将其作为关于游戏开发交流的场所来使用。
+这里的“雾幻”指的是像雾一样分散，但快乐却无限延展。在这个集会中，没有人是指挥者，所有参与者都理解主题和理念，带着自己的创造力，共同协作，**以分散的方式进行运作**。
 
-## 招募运营人员！
-我们正在招募游戏开发交流会的运营人员。
+像雾中浮现的庭园一样，大家的创意相互叠加，自然而然地形成一个空间。每个人都以自己的节奏，从自己的角度享受创作，在相互启发中共同成长。
 
-如果您有兴趣，请联系fog8360（VRChat）。
+“编织”这个词寓意着人们聚集在一起，合作创造出更好的作品。每个人的创造力都能自由绽放，并通过与其他参与者的互动，进一步得以丰富。我们目标是打造这样一个场所，在这里大家可以共同探索这座“雾幻庭园”，一边共享“快乐”，一边携手并进。
 
-- 对于活动说明、进行等方面有兴趣的人
-- 对于Discord社区管理、指南等方面有兴趣的人
-- 对于网站运营、更新和活动公告制作有兴趣的人
-- 愿意分享游戏开发技能和知识，积极与其他参与者交流的人
-当然，不仅限于这些角色，欢迎提出您可以为运营做出的贡献的人。
+## 参加方法
 
-![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/51f8e9cd-a405-4246-bbb2-d0ce97d55149)
-![VRChat_2023-04-19_22-01-21 171_1920x1080](https://github.com/metaverse-gdm/.github/assets/38463346/0d228ea7-9828-4303-9fed-eccfd77e3d79)
+https://vrch.at/szuprkx4
 
+
+![image](https://github.com/metaverse-gdm/.github/assets/38463346/ea82477e-7ac4-4d16-9404-d3fa0f5693b1)
+
+![gdm-poster5](https://github.com/user-attachments/assets/65d97a0e-ab76-4ca0-ac5d-db4624723a70)
