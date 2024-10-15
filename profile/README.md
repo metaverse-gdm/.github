@@ -1,6 +1,8 @@
 ## ゲーム開發集會 GDM (Game Development Meetup in Metaverse)
 [中文](/profile/zh-CN.md)
 
+![VRChat_2024-10-13_22-09-18 716_1920x1080](https://github.com/user-attachments/assets/56a7376d-e72f-4f7f-846d-507489fd53ed)
+
 ゲーム開發集會へようこそ！
 
 隔週日曜日 21:00～22:00 (日本時間)
@@ -43,7 +45,6 @@ https://vrch.at/szuprkx4
 
 <!-- ![gdm-poster4](https://github.com/metaverse-gdm/.github/assets/38463346/ed18511a-125f-48ac-8802-4d2256485428) -->
 
-![VRChat_2024-10-13_22-09-18 716_1920x1080](https://github.com/user-attachments/assets/56a7376d-e72f-4f7f-846d-507489fd53ed)
 
 <!-- ![image](https://github.com/metaverse-gdm/.github/assets/38463346/9ffcf164-4d78-413c-975f-ef68294730c0) -->
 
