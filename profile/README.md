@@ -1,5 +1,6 @@
 ## ゲーム開發集會 GDM (Game Development Meetup in Metaverse)
 [中文](/profile/zh-CN.md)
+[English](/profile/en.md)
 
 ![VRChat_2024-10-13_22-09-18 716_1920x1080](https://github.com/user-attachments/assets/56a7376d-e72f-4f7f-846d-507489fd53ed)
 
