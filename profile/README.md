@@ -10,7 +10,7 @@
 
 VRChat: https://vrch.at/szuprkx4
 
-VRChat Group: https://vrchat.com/home/group/grp_0fba4234-e046-46c5-b8a9-15044ebc7b34
+VRChat Group: https://vrc.group/GAME.2515
 
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
