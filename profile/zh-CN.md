@@ -7,7 +7,7 @@
 
 VRChat: https://vrch.at/szuprkx4
 
-VRChat 群组: https://vrchat.com/home/group/grp_0fba4234-e046-46c5-b8a9-15044ebc7b34
+VRChat 群组: https://vrc.group/GAME.2515
 
 Discord 邀请链接: https://discord.gg/Mes3nP3mZt
 
