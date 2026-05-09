@@ -11,7 +11,7 @@ VRChat 群组: https://vrc.group/GAME.2515
 
 Discord 邀请链接: https://discord.gg/Mes3nP3mZt
 
-官网: https://metaverse-gdm.github.io/zh-CN/
+官网: https://metaverse-gdm.github.io/
 
 ## 关于活动
 
