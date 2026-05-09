@@ -12,7 +12,7 @@ VRChat Group: https://vrc.group/GAME.2515
 
 Discord Invite URL: https://discord.gg/Mes3nP3mZt
 
-Web Site: https://metaverse-gdm.github.io/ja/
+Web Site: https://metaverse-gdm.github.io/
 
 ## イベントについて
 
